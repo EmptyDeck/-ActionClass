@@ -1,1 +1,8 @@
 09Referece/HMDB51
+09Referece/data
+data/Avenue Dataset
+*.pt
+*.weights
+*.avi
+*.mp4
+.DS_Store
